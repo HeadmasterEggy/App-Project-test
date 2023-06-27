@@ -1,7 +1,5 @@
 [TOC]
 
-
-
 # 一、背景
 
 ## 社会背景
@@ -15,20 +13,19 @@
 选择宝妈人群的优势：
 
  宝妈人群在互联网上的活跃量逐渐增高，大体上呈上升趋势。
-
-![img](file:////private/var/folders/my/p6d5z66d0q1970drb231xkbc0000gn/T/com.kingsoft.wpsoffice.mac.global/wps-joey/ksohtml//wps1.jpg) 
-
  
+ ![image](https://github.com/HeadmasterEggy/App-Project/assets/93173363/7edb2edb-0356-4748-8642-2efe2d72f52f)
+
 
 宝妈互联网使用时间高，宝妈使用互联网的日均时间超过全网日均时间
 
-![img](file:////private/var/folders/my/p6d5z66d0q1970drb231xkbc0000gn/T/com.kingsoft.wpsoffice.mac.global/wps-joey/ksohtml//wps2.jpg) 
+![image](https://github.com/HeadmasterEggy/App-Project/assets/93173363/6d3b7983-e90c-4a12-89a2-6aed29206381)
 
  
 
 宝妈会遇到很多没有遇到过的挑战与困难
 
-![img](file:////private/var/folders/my/p6d5z66d0q1970drb231xkbc0000gn/T/com.kingsoft.wpsoffice.mac.global/wps-joey/ksohtml//wps3.jpg) 
+![image](https://github.com/HeadmasterEggy/App-Project/assets/93173363/691a546e-954f-4554-bdd9-a119e7896edf)
 
  
 
@@ -62,7 +59,7 @@
 
 # 三、 功能模块
 
-![img](file:////private/var/folders/my/p6d5z66d0q1970drb231xkbc0000gn/T/com.kingsoft.wpsoffice.mac.global/wps-joey/ksohtml//wps4.jpg) 
+![image](https://github.com/HeadmasterEggy/App-Project/assets/93173363/4141bc4f-cce4-48aa-b49d-effbd30690dd)
 
  
 
@@ -276,7 +273,7 @@ AI报告另外开了一个模块，第一是保障用户可以自己回顾历史
 
 我们组首先查看了网上宝妈所使用过的app，根据下载与评分，我们列出了以下几款：
 
-![img](file:////private/var/folders/my/p6d5z66d0q1970drb231xkbc0000gn/T/com.kingsoft.wpsoffice.mac.global/wps-joey/ksohtml//wps5.jpg) 
+![image](https://github.com/HeadmasterEggy/App-Project/assets/93173363/92f94619-25f8-45aa-85d8-9b347874dbfc)
 
  
 
